@@ -1,4 +1,4 @@
-from fastapi import APIRouter
+from fastapi import APIRouter, HTTPException
 from service import generate_chat_response
 from utils.database import messages_collection
 from bson import ObjectId
@@ -8,11 +8,25 @@ router = APIRouter()
 
 @router.post("/chat")
 async def chat(data: ChatInput):
-    response_text = await generate_chat_response(data.session_id, data.prompt)
-    return {"status": "success", "response": response_text}
+    """
+    API endpoint to receive prompt and return the response from LLM
+    """
+    try:
+        response_text = await generate_chat_response(data.session_id, data.prompt)
+        return {"status": "success", "response": response_text}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
 
 @router.delete("/{id}")
 async def delete_chat(id: str):
-    messages_collection.find_one_and_delete({
-        "_id": ObjectId(id)
-    })
+    """Delete a conversation using ObjectID"""
+    try:
+        result = await messages_collection.find_one_and_delete({
+            "_id": ObjectId(id)
+        })
+        if result:
+            return {"status": "success", "message": "Message deleted"}
+        raise HTTPException(status_code=404, detail="Message not found")
+    except Exception as e:
+        raise HTTPException(status_code=400, detail="Invalid ID format")
+    
