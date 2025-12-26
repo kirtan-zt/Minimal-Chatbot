@@ -1,0 +1,100 @@
+id,Education Level,Specialization,Skills,Certifications,CGPA/Percentage,Recommended Career
+1,Bachelor's,Finance,"Counseling, MS Office, Machine Learning",Tally ERP,67,Business Analyst
+2,Intermediate,Science,"Accounting, MS Office",AWS Certified,67,Software Engineer
+3,Master's,Business,"Accounting, SQL, Data Analysis",Mental Health Basics,90,Financial Analyst
+4,Bachelor's,Computer Science,Communication,None,75,Clerk
+5,Matric,Business,Data Analysis,Tally ERP,83,Sales Assistant
+6,Matric,Arts,Counseling,Tally ERP,61,Professor
+7,Matric,Computer Science,"MS Office, Financial Analysis",Mental Health Basics,91,Clerk
+8,Matric,Finance,Counseling,Digital Marketing,87,Marketing Executive
+9,Matric,Business,"Financial Analysis, Python",CFA Level 1,78,Junior Accountant
+10,Intermediate,Science,MS Office,CFA Level 1,75,Clerk
+11,PhD,Psychology,Financial Analysis,Digital Marketing,82,School Counselor
+12,Matric,Commerce,Accounting,CFA Level 1,72,Data Entry Operator
+13,Master's,Psychology,"Counseling, Python, Accounting",Mental Health Basics,78,Financial Analyst
+14,Intermediate,Business,Communication,CFA Level 1,77,Research Scientist
+15,PhD,Computer Science,Communication,Digital Marketing,95,Financial Analyst
+16,Matric,Business,"Communication, Data Analysis, Counseling",CFA Level 1,93,Software Engineer
+17,Bachelor's,Finance,"Python, MS Office, Accounting",None,60,Financial Analyst
+18,PhD,Science,"Data Analysis, SQL, MS Office",Digital Marketing,65,Sales Assistant
+19,Bachelor's,Business,"Marketing, Counseling, SQL",Creative Writing,87,Data Entry Operator
+20,Bachelor's,Engineering,Marketing,None,68,Clerk
+21,Matric,Finance,Accounting,Google Data Analytics,88,Clerk
+22,PhD,Psychology,"Counseling, Machine Learning",Creative Writing,60,School Counselor
+23,Master's,Engineering,"Python, Financial Analysis, Marketing",Digital Marketing,73,Sales Assistant
+24,Intermediate,Science,Marketing,AWS Certified,92,School Counselor
+25,Matric,Computer Science,"Accounting, Machine Learning, SQL",Creative Writing,90,Clerk
+26,PhD,Finance,"Counseling, Communication, Machine Learning",Mental Health Basics,62,Data Entry Operator
+27,Bachelor's,Computer Science,"Financial Analysis, Accounting, Data Analysis",Tally ERP,78,Financial Analyst
+28,Bachelor's,Arts,Accounting,Digital Marketing,90,Data Entry Operator
+29,Intermediate,Engineering,Python,Tally ERP,76,Junior Accountant
+30,PhD,Engineering,"Data Analysis, Communication",Creative Writing,95,Clerk
+31,PhD,Engineering,"Machine Learning, Accounting, Communication",Digital Marketing,91,Sales Assistant
+32,Master's,Commerce,Communication,AWS Certified,80,Software Engineer
+33,Master's,Arts,Marketing,Google Data Analytics,76,Research Scientist
+34,Master's,Computer Science,"Financial Analysis, Counseling",Creative Writing,85,ML Engineer
+35,PhD,Psychology,"Python, Financial Analysis, Counseling",Creative Writing,63,Sales Assistant
+36,PhD,Commerce,"Financial Analysis, Marketing, Machine Learning",AWS Certified,81,Data Entry Operator
+37,PhD,Business,Accounting,CFA Level 1,79,Business Analyst
+38,Intermediate,Finance,Accounting,AWS Certified,65,ML Engineer
+39,Bachelor's,Science,"Data Analysis, Financial Analysis, SQL",None,66,Sales Assistant
+40,Master's,Engineering,"SQL, Communication, Counseling",Creative Writing,80,ML Engineer
+41,Bachelor's,Business,"Machine Learning, SQL, Counseling",Digital Marketing,68,Software Engineer
+42,Bachelor's,Finance,"Communication, Marketing",Google Data Analytics,81,Clerk
+43,Bachelor's,Psychology,Counseling,Google Data Analytics,67,Sales Assistant
+44,Master's,Business,MS Office,Digital Marketing,82,ML Engineer
+45,Bachelor's,Commerce,Financial Analysis,Google Data Analytics,73,Financial Analyst
+46,PhD,Psychology,"Python, Counseling",Digital Marketing,90,Clerk
+47,Intermediate,Psychology,"Financial Analysis, Counseling",Mental Health Basics,95,Research Scientist
+48,Master's,Business,Accounting,Digital Marketing,70,Sales Assistant
+49,Matric,Finance,"MS Office, Communication, SQL",Google Data Analytics,61,Sales Assistant
+50,Bachelor's,Commerce,"MS Office, Marketing, SQL",Tally ERP,60,ML Engineer
+51,Matric,Finance,"Machine Learning, Accounting",Mental Health Basics,69,Software Engineer
+52,PhD,Business,"Data Analysis, Counseling",CFA Level 1,65,School Counselor
+53,PhD,Arts,"Communication, Python, Accounting",Creative Writing,60,Data Entry Operator
+54,PhD,Arts,"Accounting, Financial Analysis",Tally ERP,76,Business Analyst
+55,Bachelor's,Business,"Data Analysis, Counseling, Accounting",Google Data Analytics,95,Professor
+56,Bachelor's,Finance,"Marketing, Financial Analysis, Communication",Tally ERP,68,Financial Analyst
+57,PhD,Computer Science,"Counseling, Machine Learning",Tally ERP,81,Software Engineer
+58,PhD,Commerce,"Marketing, Machine Learning",Digital Marketing,91,Software Engineer
+59,Master's,Finance,"Machine Learning, Marketing",Tally ERP,66,Marketing Executive
+60,Intermediate,Psychology,MS Office,Mental Health Basics,81,Research Scientist
+61,PhD,Business,"Counseling, Accounting, Financial Analysis",Mental Health Basics,69,ML Engineer
+62,Master's,Computer Science,"SQL, Counseling, Marketing",Tally ERP,78,Marketing Executive
+63,PhD,Computer Science,"SQL, MS Office, Marketing",Tally ERP,82,Software Engineer
+64,Master's,Finance,Financial Analysis,Mental Health Basics,90,Junior Accountant
+65,Master's,Engineering,Machine Learning,None,79,Marketing Executive
+66,Bachelor's,Commerce,Counseling,CFA Level 1,80,Research Scientist
+67,Master's,Commerce,"Python, Counseling, Marketing",Tally ERP,77,Data Entry Operator
+68,Intermediate,Psychology,"Machine Learning, Financial Analysis, SQL",Digital Marketing,67,Junior Accountant
+69,Master's,Computer Science,"MS Office, Counseling",CFA Level 1,90,Financial Analyst
+70,PhD,Business,"Machine Learning, Financial Analysis, MS Office",Digital Marketing,68,Professor
+71,Master's,Finance,"Python, Counseling",AWS Certified,79,Junior Accountant
+72,Intermediate,Science,"Communication, Counseling, Marketing",Mental Health Basics,94,Data Entry Operator
+73,Bachelor's,Computer Science,"Counseling, Data Analysis",Mental Health Basics,61,Marketing Executive
+74,Intermediate,Finance,Python,Tally ERP,63,Data Entry Operator
+75,Matric,Business,Accounting,CFA Level 1,71,Clerk
+76,Matric,Business,"Counseling, Communication, Financial Analysis",Creative Writing,83,ML Engineer
+77,PhD,Psychology,"Financial Analysis, Data Analysis",Tally ERP,88,Business Analyst
+78,Bachelor's,Finance,MS Office,AWS Certified,67,Professor
+79,Master's,Science,"Machine Learning, Python",Tally ERP,60,ML Engineer
+80,PhD,Psychology,Financial Analysis,Digital Marketing,72,Professor
+81,Bachelor's,Psychology,"SQL, Counseling, MS Office",CFA Level 1,90,Clerk
+82,Bachelor's,Finance,"Python, Accounting, Communication",CFA Level 1,93,Research Scientist
+83,Matric,Psychology,"Counseling, Communication, Financial Analysis",Mental Health Basics,81,Business Analyst
+84,Matric,Psychology,"Data Analysis, Marketing, Python",Tally ERP,73,Data Entry Operator
+85,Master's,Finance,Data Analysis,Tally ERP,82,Junior Accountant
+86,Master's,Arts,"Accounting, Financial Analysis, SQL",Tally ERP,62,Research Scientist
+87,Intermediate,Finance,"Marketing, Communication, Data Analysis",Digital Marketing,67,Data Entry Operator
+88,Matric,Computer Science,"Counseling, Marketing",None,95,Software Engineer
+89,Intermediate,Computer Science,"Counseling, SQL, Python",AWS Certified,86,Clerk
+90,Master's,Arts,"Accounting, Python",Creative Writing,86,Clerk
+91,Master's,Science,"Communication, Data Analysis",AWS Certified,85,School Counselor
+92,Bachelor's,Psychology,"SQL, Data Analysis",Google Data Analytics,73,ML Engineer
+93,Bachelor's,Commerce,Data Analysis,Tally ERP,66,Sales Assistant
+94,Bachelor's,Engineering,"Accounting, MS Office",AWS Certified,80,School Counselor
+95,Master's,Arts,SQL,None,87,Data Entry Operator
+96,Bachelor's,Computer Science,"Counseling, Marketing",Mental Health Basics,84,Professor
+97,Bachelor's,Science,"Counseling, Marketing",Tally ERP,88,Research Scientist
+98,Bachelor's,Computer Science,"Accounting, Communication, MS Office",AWS Certified,72,Junior Accountant
+99,Master's,Commerce,"Financial Analysis, Python",Tally ERP,81,Professor
